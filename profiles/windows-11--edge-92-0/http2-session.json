@@ -1,0 +1,117 @@
+{
+  "userAgentId": "windows-11--edge-92-0",
+  "data": {
+    "sessions": [
+      {
+        "activity": [
+          {
+            "type": "connect",
+            "data": {
+              "remoteWindowSize": 65535
+            }
+          },
+          {
+            "type": "remoteSettings",
+            "data": {
+              "settings": {
+                "headerTableSize": 65536,
+                "initialWindowSize": 6291456,
+                "maxConcurrentStreams": 1000,
+                "maxHeaderListSize": 262144
+              },
+              "remoteWindowSize": 65535
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 1,
+              "authority": "da-collect.ulixee.org:3018",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/http2-session/wait?pageIndex=0&sessionId=85",
+              "flags": 37,
+              "weight": 256,
+              "hpackOutboundSize": 0,
+              "hpackInboundSize": 948,
+              "remoteWindowSize": 15728640
+            }
+          },
+          {
+            "type": "localSettings",
+            "data": {
+              "settings": {
+                "headerTableSize": 4096,
+                "enablePush": true,
+                "initialWindowSize": 65535,
+                "maxFrameSize": 16384,
+                "maxConcurrentStreams": 4294967295,
+                "maxHeaderListSize": 4294967295,
+                "maxHeaderSize": 4294967295,
+                "enableConnectProtocol": false
+              },
+              "remoteWindowSize": 15727232
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 3,
+              "authority": "da-collect.ulixee.org:3018",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/favicon.ico",
+              "flags": 37,
+              "weight": 220,
+              "hpackOutboundSize": 65,
+              "hpackInboundSize": 1317,
+              "remoteWindowSize": 15727232
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 5,
+              "authority": "da-collect.ulixee.org:3018",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/http2-session/wait2?pageIndex=1&sessionId=85",
+              "flags": 37,
+              "weight": 256,
+              "hpackOutboundSize": 121,
+              "hpackInboundSize": 1317,
+              "remoteWindowSize": 15692738
+            }
+          },
+          {
+            "type": "ping",
+            "data": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001"
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 7,
+              "authority": "da-collect.ulixee.org:3018",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/http2-session/?pageIndex=2&sessionId=85",
+              "flags": 37,
+              "weight": 256,
+              "hpackOutboundSize": 186,
+              "hpackInboundSize": 1317,
+              "remoteWindowSize": 15691335
+            }
+          },
+          {
+            "type": "ping",
+            "data": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002"
+          }
+        ],
+        "id": "::ffff:23.105.188.120:7675",
+        "origins": [
+          "https://da-collect.ulixee.org:7675"
+        ]
+      }
+    ]
+  }
+}

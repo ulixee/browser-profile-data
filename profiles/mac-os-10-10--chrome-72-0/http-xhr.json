@@ -1,0 +1,5253 @@
+{
+  "userAgentId": "mac-os-10-10--chrome-72-0",
+  "data": [
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "82"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "85"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "k6np8igwb4m"
+        ],
+        [
+          "x-lower-sessionid",
+          "ymwwqegw0ae"
+        ],
+        [
+          "gvqqctb2foo",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "licpb7gd52b"
+        ],
+        [
+          "x-lower-sessionid",
+          "lez5gacy11j"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "rbnnlazb81k",
+          "1"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "t35ul05ck8q"
+        ],
+        [
+          "0odymey829za",
+          "1"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "x-lower-sessionid",
+          "2yt458dexuo"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-lower-sessionid",
+          "rjocy70x3ui"
+        ],
+        [
+          "ra66wdre7lb",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "5f9hxpm8lqn"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "82"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "x-header-sessionid,x-lower-sessionid,xcewpzt8x1r"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "3eaxdklgvnd"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "x-lower-sessionid",
+          "ricshxnejsm"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "xcewpzt8x1r",
+          "1"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "k0723vig9p,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "k0723vig9p",
+          "1"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "xk1q6rtkwc"
+        ],
+        [
+          "x-lower-sessionid",
+          "ieu9slihztm"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "x-header-sessionid,x-lower-sessionid,zacfwiemz0r"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "rbu4nwncl0f"
+        ],
+        [
+          "x-lower-sessionid",
+          "8b9ujsdqrxw"
+        ],
+        [
+          "zacfwiemz0r",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "x-header-sessionid,x-lower-sessionid,xpnctrrqrn"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "86"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-lower-sessionid",
+          "0qqcx53z89kc"
+        ],
+        [
+          "xpnctrrqrn",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "wo3r77vh2yf"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "83"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "v0zi2x7h5q,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "x-lower-sessionid",
+          "chplohj5dji"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "9n0by12hw5b"
+        ],
+        [
+          "v0zi2x7h5q",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "0anxvkq68dc,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "0anxvkq68dc",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "un23kci5u5s"
+        ],
+        [
+          "x-lower-sessionid",
+          "o58aug82egn"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "ikrktwgmd6r,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "85"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "x-lower-sessionid",
+          "hx6qo3lm8zm"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "lsm8xsbpue9"
+        ],
+        [
+          "ikrktwgmd6r",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "wdzzazuxcei,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3015"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3015"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-lower-sessionid",
+          "h098l8sk4l"
+        ],
+        [
+          "wdzzazuxcei",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "81na4v2wkzd"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3015/http-xhr/run?pageIndex=0&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "83"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "83"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "6nlwuvv7mtd"
+        ],
+        [
+          "x-lower-sessionid",
+          "96hiwvui9xp"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "9ljnbs0hyfi",
+          "1"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "1uu63spzu63"
+        ],
+        [
+          "x-lower-sessionid",
+          "zpxomr2owto"
+        ],
+        [
+          "5mtfu323vh3",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "8laxi1z59zb"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "x-lower-sessionid",
+          "vt8vfkehuud"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "tlm01loqhu",
+          "1"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "5rrrpcjzs5d"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-lower-sessionid",
+          "cn024ld4kkf"
+        ],
+        [
+          "9mdm5gtw7m5",
+          "1"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "85"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "85"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "cs2u29nmhci,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "cs2u29nmhci",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "rjq6l3p4pak"
+        ],
+        [
+          "x-lower-sessionid",
+          "cqp8dcrtma7"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "mubc528w34,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "xkq0lzknwn"
+        ],
+        [
+          "x-lower-sessionid",
+          "zqwc5j2d4qr"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "mubc528w34",
+          "1"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "lkwlmf4gi,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "83"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "tviyfmm6e9s"
+        ],
+        [
+          "lkwlmf4gi",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "os4elfn9d9"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "kz92vmz3s,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-lower-sessionid",
+          "o5voa882la"
+        ],
+        [
+          "kz92vmz3s",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "px4rdfwf5s9"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "85"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "iu9lrg7qddo,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "hliuzj9kl7"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "iu9lrg7qddo",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "dvaoxyaaop7"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "1bhup1pdujci,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "rlwl8w1ijn"
+        ],
+        [
+          "x-lower-sessionid",
+          "ktp5mfe89jc"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "1bhup1pdujci",
+          "1"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "x-header-sessionid,x-lower-sessionid,y641mfnaxwf"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "83"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "nx292ze4xp"
+        ],
+        [
+          "x-lower-sessionid",
+          "y4itfhwj0kq"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "y641mfnaxwf",
+          "1"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "lpv5ayf7ho9,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3016"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "85"
+        ],
+        [
+          "lpv5ayf7ho9",
+          "1"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3016"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-lower-sessionid",
+          "7lknx1yepfs"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "jgjxsp2ek"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3016/http-xhr/run?pageIndex=1&sessionId=141"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "84"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "84"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-custom-headers.json?sessionId=141"
+        ],
+        [
+          "x-header-sessionid",
+          "yhx9ajl328"
+        ],
+        [
+          "hqeclw7yuwk",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "qncqket4yes"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-custom-headers.json?sessionId=141"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-header-sessionid",
+          "1xad1h9pv69h"
+        ],
+        [
+          "x-lower-sessionid",
+          "14gktzrb1q9g"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "mw8dc3729tq",
+          "1"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-custom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "88"
+        ],
+        [
+          "z5bj77574cj",
+          "1"
+        ],
+        [
+          "x-header-sessionid",
+          "op9fv94m29a"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "x-lower-sessionid",
+          "fpgetiw3su5"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-custom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "84"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-lower-sessionid",
+          "6c5sbptpjus"
+        ],
+        [
+          "sullrrseag",
+          "1"
+        ],
+        [
+          "x-header-sessionid",
+          "z5bhsvt32gc"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "81"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "84"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-custom-headers.json?sessionId=141"
+        ],
+        [
+          "access-control-request-method",
+          "GET"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "access-control-request-headers",
+          "q1z2mbx08km,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-custom-headers.json?sessionId=141"
+        ],
+        [
+          "x-header-sessionid",
+          "v6u70eq3fz"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "x-lower-sessionid",
+          "o763me9ywup"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "q1z2mbx08km",
+          "1"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-custom-headers.json?sessionId=141"
+        ],
+        [
+          "access-control-request-method",
+          "GET"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "access-control-request-headers",
+          "jkr1aiu470f,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-custom-headers.json?sessionId=141"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-header-sessionid",
+          "o4ggsq5wd0a"
+        ],
+        [
+          "x-lower-sessionid",
+          "kdpjzi54rk"
+        ],
+        [
+          "jkr1aiu470f",
+          "1"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-custom-headers.json?sessionId=141"
+        ],
+        [
+          "access-control-request-method",
+          "POST"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "access-control-request-headers",
+          "x-header-sessionid,x-lower-sessionid,y0fyce3bay"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-custom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "85"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "x-header-sessionid",
+          "u7hxzjv65z"
+        ],
+        [
+          "y0fyce3bay",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "kpgtmratsbg"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-custom-headers.json?sessionId=141"
+        ],
+        [
+          "access-control-request-method",
+          "POST"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "access-control-request-headers",
+          "0yi6td2qmcj,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-custom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "82"
+        ],
+        [
+          "0yi6td2qmcj",
+          "1"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-lower-sessionid",
+          "wwsuafnd34q"
+        ],
+        [
+          "x-header-sessionid",
+          "17k96kx7oj4"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "82"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-nocustom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "83"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-custom-headers.json?sessionId=141"
+        ],
+        [
+          "access-control-request-method",
+          "GET"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "access-control-request-headers",
+          "3tgttidd2az,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-custom-headers.json?sessionId=141"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "x-lower-sessionid",
+          "m0der10l54s"
+        ],
+        [
+          "x-header-sessionid",
+          "vtpmgg7x40l"
+        ],
+        [
+          "3tgttidd2az",
+          "1"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-custom-headers.json?sessionId=141"
+        ],
+        [
+          "access-control-request-method",
+          "GET"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "access-control-request-headers",
+          "v9nml6gvs29,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-custom-headers.json?sessionId=141"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-header-sessionid",
+          "pquzgftfkv"
+        ],
+        [
+          "x-lower-sessionid",
+          "irtyprened"
+        ],
+        [
+          "v9nml6gvs29",
+          "1"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-custom-headers.json?sessionId=141"
+        ],
+        [
+          "access-control-request-method",
+          "POST"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "access-control-request-headers",
+          "x-header-sessionid,x-lower-sessionid,z47m8vsdon"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-custom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "82"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "z47m8vsdon",
+          "1"
+        ],
+        [
+          "x-header-sessionid",
+          "kaya0g0gjb"
+        ],
+        [
+          "x-lower-sessionid",
+          "z3imnv3op98"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-custom-headers.json?sessionId=141"
+        ],
+        [
+          "access-control-request-method",
+          "POST"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "access-control-request-headers",
+          "rr3qy50xq8k,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3017"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-custom-headers.json?sessionId=141"
+        ],
+        [
+          "content-length",
+          "84"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3017"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"
+        ],
+        [
+          "rr3qy50xq8k",
+          "1"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "x-lower-sessionid",
+          "csgsl9b27be"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "x-header-sessionid",
+          "866hsis15og"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3017/http-xhr/run?pageIndex=2&sessionId=141"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    }
+  ]
+}

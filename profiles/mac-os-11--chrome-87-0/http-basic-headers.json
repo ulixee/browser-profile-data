@@ -1,0 +1,1092 @@
+{
+  "userAgentId": "mac-os-11--chrome-87-0",
+  "data": [
+    {
+      "pageName": "LoadedDirect",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "none",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/start",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "ClickedFromCrossDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "cross-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page1",
+      "referer": "http://CrossDomain/http-basic-headers/linkToNext?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://headers.dataliberationfoundation.org:3010/http-basic-headers/linkToNext?pageIndex=1&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "JsLocationFromSameDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/useJsToLoadNextPage",
+      "referer": "http://MainDomain/http-basic-headers/page1?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3010/http-basic-headers/page1?pageIndex=2&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "ClickRedirectFromSameDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "none",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page2",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/redirectToNextPage",
+      "referer": "http://MainDomain/http-basic-headers/page2?pageIndex=4&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3010/http-basic-headers/page2?pageIndex=4&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "RedirectedFromSameDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page3",
+      "referer": "http://MainDomain/http-basic-headers/page2?pageIndex=4&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3010/http-basic-headers/page2?pageIndex=4&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "LoadedSamePageAgain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page2",
+      "referer": "http://MainDomain/http-basic-headers/page3?pageIndex=6&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3010/http-basic-headers/page3?pageIndex=6&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "SetCookiesMainDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/setCookies1",
+      "referer": "http://MainDomain/http-basic-headers/page2?pageIndex=7&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3010/http-basic-headers/page2?pageIndex=7&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "SetCookiesSubDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/setCookies2",
+      "referer": "http://MainDomain/http-basic-headers/setCookies1?pageIndex=8&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3010/http-basic-headers/setCookies1?pageIndex=8&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "SetCookiesCrossDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/setCookies3",
+      "referer": "http://SubDomain/http-basic-headers/setCookies2?pageIndex=9&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://sub.da-collect.ulixee.org:3010/http-basic-headers/setCookies2?pageIndex=9&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "CookieClickedFromSameOrigin",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "cross-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page1CookieSameOrigin",
+      "referer": "http://CrossDomain/http-basic-headers/setCookies3?pageIndex=10&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://headers.dataliberationfoundation.org:3010/http-basic-headers/setCookies3?pageIndex=10&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ],
+        [
+          "Cookie",
+          "cookie1=true"
+        ]
+      ]
+    },
+    {
+      "pageName": "CookieClickedFromSameDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page1Cookie",
+      "referer": "http://MainDomain/http-basic-headers/page1CookieSameOrigin?pageIndex=11&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3010/http-basic-headers/page1CookieSameOrigin?pageIndex=11&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ],
+        [
+          "Cookie",
+          "cookie1=true"
+        ]
+      ]
+    },
+    {
+      "pageName": "CookieClickedFromSubDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page2Cookie",
+      "referer": "http://MainDomain/http-basic-headers/page1Cookie?pageIndex=12&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3010/http-basic-headers/page1Cookie?pageIndex=12&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ],
+        [
+          "Cookie",
+          "cookie1=true"
+        ]
+      ]
+    },
+    {
+      "pageName": "CookieClickedFromCrossDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page3Cookie",
+      "referer": "http://SubDomain/http-basic-headers/page2Cookie?pageIndex=13&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://sub.da-collect.ulixee.org:3010/http-basic-headers/page2Cookie?pageIndex=13&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ],
+        [
+          "Cookie",
+          "cookie1=true"
+        ]
+      ]
+    },
+    {
+      "pageName": "ClickedToPostFromSameDomain",
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "none",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page1PostSameOrigin",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ],
+        [
+          "Cookie",
+          "cookie1=true"
+        ]
+      ]
+    },
+    {
+      "pageName": "PostFromSameDomain",
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page1Post",
+      "referer": "http://MainDomain/http-basic-headers/page1PostSameOrigin?pageIndex=15&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "31"
+        ],
+        [
+          "Cache-Control",
+          "max-age=0"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3010"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3010/http-basic-headers/page1PostSameOrigin?pageIndex=15&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ],
+        [
+          "Cookie",
+          "cookie1=true"
+        ]
+      ]
+    },
+    {
+      "pageName": "PostFromSubDomain",
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page2Post",
+      "referer": "http://MainDomain/http-basic-headers/page1Post?pageIndex=16&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "31"
+        ],
+        [
+          "Cache-Control",
+          "max-age=0"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3010"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3010/http-basic-headers/page1Post?pageIndex=16&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ],
+        [
+          "Cookie",
+          "cookie1=true"
+        ]
+      ]
+    },
+    {
+      "pageName": "PostFromCrossDomain",
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page3Post",
+      "referer": "http://SubDomain/http-basic-headers/page2Post?pageIndex=17&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3010"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "31"
+        ],
+        [
+          "Cache-Control",
+          "max-age=0"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "Origin",
+          "http://sub.da-collect.ulixee.org:3010"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Referer",
+          "http://sub.da-collect.ulixee.org:3010/http-basic-headers/page2Post?pageIndex=17&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ],
+        [
+          "Cookie",
+          "cookie1=true"
+        ]
+      ]
+    },
+    {
+      "pageName": "LoadedDirect",
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "none",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/start",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3011"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "none"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "navigate"
+        ],
+        [
+          "Sec-Fetch-User",
+          "?1"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "document"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "ClickedFromCrossDomain",
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "cross-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page1",
+      "referer": "https://CrossDomain/http-basic-headers/linkToNext?pageIndex=23&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3011"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "navigate"
+        ],
+        [
+          "Sec-Fetch-User",
+          "?1"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "document"
+        ],
+        [
+          "Referer",
+          "https://headers.dataliberationfoundation.org:3011/http-basic-headers/linkToNext?pageIndex=23&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "JsLocationFromSameDomain",
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/useJsToLoadNextPage",
+      "referer": "https://MainDomain/http-basic-headers/page1?pageIndex=24&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3011"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "navigate"
+        ],
+        [
+          "Sec-Fetch-User",
+          "?1"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "document"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3011/http-basic-headers/page1?pageIndex=24&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "pageName": "ClickRedirectFromSameDomain",
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-site",
+      "resourceType": "Document",
+      "pathname": "/http-basic-headers/page2",
+      "referer": "https://SubDomain/http-basic-headers/useJsToLoadNextPage?pageIndex=25&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3011"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Upgrade-Insecure-Requests",
+          "1"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "navigate"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "document"
+        ],
+        [
+          "Referer",
+          "https://sub.da-collect.ulixee.org:3011/http-basic-headers/useJsToLoadNextPage?pageIndex=25&sessionId=336"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    }
+  ]
+}

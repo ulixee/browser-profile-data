@@ -1,0 +1,93 @@
+{
+  "userAgentId": "mac-os-12--safari-15-1",
+  "data": {
+    "sessions": [
+      {
+        "activity": [
+          {
+            "type": "connect",
+            "data": {
+              "remoteWindowSize": 65535
+            }
+          },
+          {
+            "type": "remoteSettings",
+            "data": {
+              "settings": {
+                "initialWindowSize": 4194304,
+                "maxConcurrentStreams": 100,
+                "maxHeaderListSize": 4294967295
+              },
+              "remoteWindowSize": 65535
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 1,
+              "authority": "da-collect.ulixee.org:3018",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/http2-session/wait?pageIndex=0&sessionId=81",
+              "flags": 37,
+              "weight": 255,
+              "hpackOutboundSize": 0,
+              "hpackInboundSize": 453,
+              "remoteWindowSize": 10551295
+            }
+          },
+          {
+            "type": "localSettings",
+            "data": {
+              "settings": {
+                "headerTableSize": 4096,
+                "enablePush": true,
+                "initialWindowSize": 65535,
+                "maxFrameSize": 16384,
+                "maxConcurrentStreams": 4294967295,
+                "maxHeaderListSize": 4294967295,
+                "maxHeaderSize": 4294967295,
+                "enableConnectProtocol": false
+              },
+              "remoteWindowSize": 10549887
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 3,
+              "authority": "da-collect.ulixee.org:3018",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/http2-session/wait2?pageIndex=1&sessionId=81",
+              "flags": 37,
+              "weight": 255,
+              "hpackOutboundSize": 65,
+              "hpackInboundSize": 453,
+              "remoteWindowSize": 10549887
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 5,
+              "authority": "da-collect.ulixee.org:3018",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/http2-session/?pageIndex=2&sessionId=81",
+              "flags": 37,
+              "weight": 255,
+              "hpackOutboundSize": 130,
+              "hpackInboundSize": 453,
+              "remoteWindowSize": 10548484
+            }
+          }
+        ],
+        "id": "::ffff:209.10.151.127:64822",
+        "origins": [
+          "https://da-collect.ulixee.org:64822"
+        ]
+      }
+    ]
+  }
+}

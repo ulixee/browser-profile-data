@@ -1,0 +1,64 @@
+{
+  "userAgentId": "mac-os-10-12--chrome-58-0",
+  "data": {
+    "sessions": [
+      {
+        "activity": [
+          {
+            "type": "connect",
+            "data": {
+              "remoteWindowSize": 65535
+            }
+          },
+          {
+            "type": "remoteSettings",
+            "data": {
+              "settings": {
+                "headerTableSize": 65536,
+                "initialWindowSize": 6291456,
+                "maxConcurrentStreams": 1000,
+                "maxHeaderListSize": 4294967295
+              },
+              "remoteWindowSize": 65535
+            }
+          },
+          {
+            "type": "localSettings",
+            "data": {
+              "settings": {
+                "headerTableSize": 4096,
+                "enablePush": true,
+                "initialWindowSize": 65535,
+                "maxFrameSize": 16384,
+                "maxConcurrentStreams": 4294967295,
+                "maxHeaderListSize": 4294967295,
+                "maxHeaderSize": 4294967295,
+                "enableConnectProtocol": false
+              },
+              "remoteWindowSize": 15728640
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 1,
+              "authority": "da-collect.ulixee.org:3002",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/http2-session/wait?pageIndex=0&sessionId=180",
+              "flags": 37,
+              "weight": 256,
+              "hpackOutboundSize": 0,
+              "hpackInboundSize": 531,
+              "remoteWindowSize": 15728640
+            }
+          }
+        ],
+        "id": "::ffff:208.52.145.17:63333",
+        "origins": [
+          "https://da-collect.ulixee.org:63333"
+        ]
+      }
+    ]
+  }
+}

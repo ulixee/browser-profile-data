@@ -1,0 +1,48 @@
+name: 'Check for new profiles'
+
+on:
+  workflow_dispatch:
+    inputs:
+      clearPlugins:
+        description: 'Redo any plugin-ids (comma separated)'
+        required: false
+  schedule:
+    - cron: '0 7 * * *'
+
+jobs:
+  profiler:
+    name: 'Update Agents & Stats'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install pcap
+        run: sudo apt-get install -y libpcap-dev
+
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.PAT }}
+
+      - name: Clone unblocked
+        run: git clone --recurse-submodules -j8 https://github.com/unblocked-web/unblocked.git
+        working-directory: ..
+
+      - name: Install unblocked
+        run: yarn build:all
+        working-directory: ../unblocked
+
+      - name: 'Clear plugin-ids from manual'
+        if: ${{ github.event.inputs.clearPlugins }}
+        run: yarn profile:browserstack
+        working-directory: ../unblocked/browser-profiler
+
+      - name: 'Collect new Browserstack Profiles'
+        run: yarn profile:browserstack
+        working-directory: ../unblocked/browser-profiler
+        env:
+          BROWSERSTACK_USER: ${{ secrets.BROWSERSTACK_USER }}
+          BROWSERSTACK_ACCESS_KEY: ${{ secrets.BROWSERSTACK_ACCESS_KEY }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if: ${{ always() }}
+        with:
+          commit_message: "chore(profiles): automatic updates"
