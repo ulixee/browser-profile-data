@@ -27,7 +27,7 @@ jobs:
         working-directory: ../unblocked
 
       - name: 'Collect Local Doms'
-        run: node -e 'require("build/main/scripts/runLocalDoms.js").default()'
+        run: yarn profile:dom-local
         working-directory: ../unblocked/browser-profiler
         env:
           NODE_ENV: development
