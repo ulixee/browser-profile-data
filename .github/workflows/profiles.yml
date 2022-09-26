@@ -32,7 +32,7 @@ jobs:
 
       - name: 'Clear plugin-ids from manual'
         if: ${{ github.event.inputs.clearPlugins }}
-        run: yarn profile:browserstack
+        run: yarn profile:clean ${{ github.event.inputs.clearPlugins }}
         working-directory: ../unblocked/browser-profiler
 
       - name: 'Collect new Browserstack Profiles'
