@@ -37,4 +37,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         if: ${{ always() }}
         with:
-          commit_message: "chore(profiles): automatic updates"
+          commit_message: "chore(local-doms): automatic updates"
