@@ -1,102 +1,1419 @@
 {
   "userAgentId": "mac-os-10-9--firefox-67-0",
   "data": {
-    "jsHighEntropyHints": null,
-    "https": [
-      [
-        "Host",
-        "da-collect.ulixee.org:3015"
-      ],
-      [
-        "User-Agent",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
-      ],
-      [
-        "Accept",
-        "*/*"
-      ],
-      [
-        "Accept-Language",
-        "en-US,en;q=0.5"
-      ],
-      [
-        "Accept-Encoding",
-        "gzip, deflate, br"
-      ],
-      [
-        "Referer",
-        "https://da-collect.ulixee.org:3015/http-ua-hints/?pageIndex=0&sessionId=76"
-      ],
-      [
-        "content-type",
-        "application/json"
-      ],
-      [
-        "Origin",
-        "https://da-collect.ulixee.org:3015"
-      ],
-      [
-        "Content-Length",
-        "4"
-      ],
-      [
-        "Connection",
-        "keep-alive"
-      ]
+    "headers": [
+      {
+        "method": "GET",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "MainDomain",
+        "originType": "same-origin",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=0&sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "da-collect.ulixee.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://da-collect.ulixee.org:3015/http-ua-hints/?pageIndex=0&sessionId=35"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "SubDomain",
+        "originType": "same-site",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=0&sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "sub.da-collect.ulixee.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://da-collect.ulixee.org:3015/http-ua-hints/?pageIndex=0&sessionId=35"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "cross-site",
+        "resourceType": "Document",
+        "pathname": "/http-ua-hints/iframe",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=0&sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "headers.dataliberationfoundation.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://da-collect.ulixee.org:3015/http-ua-hints/?pageIndex=0&sessionId=35"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ],
+          [
+            "Upgrade-Insecure-Requests",
+            "1"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "cross-site",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=0&sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "headers.dataliberationfoundation.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://da-collect.ulixee.org:3015/http-ua-hints/?pageIndex=0&sessionId=35"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "SubDomain",
+        "originType": "same-site",
+        "resourceType": "Image",
+        "pathname": "/http-ua-hints/img.png",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=0&sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "sub.da-collect.ulixee.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "image/webp,*/*"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://da-collect.ulixee.org:3015/http-ua-hints/?pageIndex=0&sessionId=35"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "cross-site",
+        "resourceType": "Image",
+        "pathname": "/http-ua-hints/img.png",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=0&sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "headers.dataliberationfoundation.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "image/webp,*/*"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://da-collect.ulixee.org:3015/http-ua-hints/?pageIndex=0&sessionId=35"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "MainDomain",
+        "originType": "same-origin",
+        "resourceType": "Image",
+        "pathname": "/http-ua-hints/img.png",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=0&sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "da-collect.ulixee.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "image/webp,*/*"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://da-collect.ulixee.org:3015/http-ua-hints/?pageIndex=0&sessionId=35"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "same-origin",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "headers.dataliberationfoundation.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://headers.dataliberationfoundation.org:3015/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "MainDomain",
+        "originType": "cross-site",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "da-collect.ulixee.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://headers.dataliberationfoundation.org:3015/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "SubDomain",
+        "originType": "cross-site",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "sub.da-collect.ulixee.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://headers.dataliberationfoundation.org:3015/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "POST",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "MainDomain",
+        "originType": "same-origin",
+        "resourceType": "Document",
+        "pathname": "/http-ua-hints/save",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=0&sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "da-collect.ulixee.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "*/*"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://da-collect.ulixee.org:3015/http-ua-hints/?pageIndex=0&sessionId=35"
+          ],
+          [
+            "content-type",
+            "application/json"
+          ],
+          [
+            "Origin",
+            "https://da-collect.ulixee.org:3015"
+          ],
+          [
+            "Content-Length",
+            "4"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "POST",
+        "protocol": "https",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "same-origin",
+        "resourceType": "Document",
+        "pathname": "/http-ua-hints/save",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            "Host",
+            "headers.dataliberationfoundation.org:3015"
+          ],
+          [
+            "User-Agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "Accept",
+            "*/*"
+          ],
+          [
+            "Accept-Language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "Accept-Encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "Referer",
+            "https://headers.dataliberationfoundation.org:3015/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "content-type",
+            "application/json"
+          ],
+          [
+            "Origin",
+            "https://headers.dataliberationfoundation.org:3015"
+          ],
+          [
+            "Content-Length",
+            "4"
+          ],
+          [
+            "Connection",
+            "keep-alive"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "MainDomain",
+        "originType": "none",
+        "resourceType": "Document",
+        "pathname": "/http-ua-hints/",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/?pageIndex=1&sessionId=35"
+          ],
+          [
+            ":authority",
+            "da-collect.ulixee.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "upgrade-insecure-requests",
+            "1"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "MainDomain",
+        "originType": "same-origin",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=1&sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/style.css?sessionId=35"
+          ],
+          [
+            ":authority",
+            "da-collect.ulixee.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://da-collect.ulixee.org:3016/http-ua-hints/?pageIndex=1&sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "SubDomain",
+        "originType": "same-site",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=1&sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/style.css?sessionId=35"
+          ],
+          [
+            ":authority",
+            "sub.da-collect.ulixee.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://da-collect.ulixee.org:3016/http-ua-hints/?pageIndex=1&sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "MainDomain",
+        "originType": "same-origin",
+        "resourceType": "Image",
+        "pathname": "/http-ua-hints/img.png",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=1&sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/img.png?sessionId=35"
+          ],
+          [
+            ":authority",
+            "da-collect.ulixee.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "image/webp,*/*"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://da-collect.ulixee.org:3016/http-ua-hints/?pageIndex=1&sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "SubDomain",
+        "originType": "same-site",
+        "resourceType": "Image",
+        "pathname": "/http-ua-hints/img.png",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=1&sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/img.png?sessionId=35"
+          ],
+          [
+            ":authority",
+            "sub.da-collect.ulixee.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "image/webp,*/*"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://da-collect.ulixee.org:3016/http-ua-hints/?pageIndex=1&sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "cross-site",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=1&sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/style.css?sessionId=35"
+          ],
+          [
+            ":authority",
+            "headers.dataliberationfoundation.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://da-collect.ulixee.org:3016/http-ua-hints/?pageIndex=1&sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "cross-site",
+        "resourceType": "Document",
+        "pathname": "/http-ua-hints/iframe",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=1&sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            ":authority",
+            "headers.dataliberationfoundation.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://da-collect.ulixee.org:3016/http-ua-hints/?pageIndex=1&sessionId=35"
+          ],
+          [
+            "upgrade-insecure-requests",
+            "1"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "cross-site",
+        "resourceType": "Image",
+        "pathname": "/http-ua-hints/img.png",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=1&sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/img.png?sessionId=35"
+          ],
+          [
+            ":authority",
+            "headers.dataliberationfoundation.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "image/webp,*/*"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://da-collect.ulixee.org:3016/http-ua-hints/?pageIndex=1&sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "MainDomain",
+        "originType": "cross-site",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/style.css?sessionId=35"
+          ],
+          [
+            ":authority",
+            "da-collect.ulixee.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://headers.dataliberationfoundation.org:3016/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "SubDomain",
+        "originType": "cross-site",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/style.css?sessionId=35"
+          ],
+          [
+            ":authority",
+            "sub.da-collect.ulixee.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://headers.dataliberationfoundation.org:3016/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "same-origin",
+        "resourceType": "Stylesheet",
+        "pathname": "/http-ua-hints/style.css",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/style.css?sessionId=35"
+          ],
+          [
+            ":authority",
+            "headers.dataliberationfoundation.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "text/css,*/*;q=0.1"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://headers.dataliberationfoundation.org:3016/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "POST",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "MainDomain",
+        "originType": "same-origin",
+        "resourceType": "Document",
+        "pathname": "/http-ua-hints/save",
+        "referer": "https://MainDomain/http-ua-hints/?pageIndex=1&sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "POST"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/save?sessionId=35"
+          ],
+          [
+            ":authority",
+            "da-collect.ulixee.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "*/*"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://da-collect.ulixee.org:3016/http-ua-hints/?pageIndex=1&sessionId=35"
+          ],
+          [
+            "content-type",
+            "application/json"
+          ],
+          [
+            "origin",
+            "https://da-collect.ulixee.org:3016"
+          ],
+          [
+            "content-length",
+            "4"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "MainDomain",
+        "originType": "cross-site",
+        "resourceType": "Image",
+        "pathname": "/http-ua-hints/img.png",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/img.png?sessionId=35"
+          ],
+          [
+            ":authority",
+            "da-collect.ulixee.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "image/webp,*/*"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://headers.dataliberationfoundation.org:3016/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "SubDomain",
+        "originType": "cross-site",
+        "resourceType": "Image",
+        "pathname": "/http-ua-hints/img.png",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/img.png?sessionId=35"
+          ],
+          [
+            ":authority",
+            "sub.da-collect.ulixee.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "image/webp,*/*"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://headers.dataliberationfoundation.org:3016/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "GET",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "same-origin",
+        "resourceType": "Image",
+        "pathname": "/http-ua-hints/img.png",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "GET"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/img.png?sessionId=35"
+          ],
+          [
+            ":authority",
+            "headers.dataliberationfoundation.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "image/webp,*/*"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://headers.dataliberationfoundation.org:3016/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      },
+      {
+        "method": "POST",
+        "protocol": "http2",
+        "isRedirect": false,
+        "domainType": "CrossDomain",
+        "originType": "same-origin",
+        "resourceType": "Document",
+        "pathname": "/http-ua-hints/save",
+        "referer": "https://CrossDomain/http-ua-hints/iframe?sessionId=X",
+        "rawHeaders": [
+          [
+            ":method",
+            "POST"
+          ],
+          [
+            ":path",
+            "/http-ua-hints/save?sessionId=35"
+          ],
+          [
+            ":authority",
+            "headers.dataliberationfoundation.org:3016"
+          ],
+          [
+            ":scheme",
+            "https"
+          ],
+          [
+            "user-agent",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
+          ],
+          [
+            "accept",
+            "*/*"
+          ],
+          [
+            "accept-language",
+            "en-US,en;q=0.5"
+          ],
+          [
+            "accept-encoding",
+            "gzip, deflate, br"
+          ],
+          [
+            "referer",
+            "https://headers.dataliberationfoundation.org:3016/http-ua-hints/iframe?sessionId=35"
+          ],
+          [
+            "content-type",
+            "application/json"
+          ],
+          [
+            "origin",
+            "https://headers.dataliberationfoundation.org:3016"
+          ],
+          [
+            "content-length",
+            "4"
+          ],
+          [
+            "te",
+            "trailers"
+          ]
+        ]
+      }
     ],
-    "http2": [
-      [
-        ":method",
-        "POST"
-      ],
-      [
-        ":path",
-        "/http-ua-hints/save?sessionId=76"
-      ],
-      [
-        ":authority",
-        "da-collect.ulixee.org:3016"
-      ],
-      [
-        ":scheme",
-        "https"
-      ],
-      [
-        "user-agent",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:67.0) Gecko/20100101 Firefox/67.0"
-      ],
-      [
-        "accept",
-        "*/*"
-      ],
-      [
-        "accept-language",
-        "en-US,en;q=0.5"
-      ],
-      [
-        "accept-encoding",
-        "gzip, deflate, br"
-      ],
-      [
-        "referer",
-        "https://da-collect.ulixee.org:3016/http-ua-hints/?pageIndex=1&sessionId=76"
-      ],
-      [
-        "content-type",
-        "application/json"
-      ],
-      [
-        "origin",
-        "https://da-collect.ulixee.org:3016"
-      ],
-      [
-        "content-length",
-        "4"
-      ],
-      [
-        "te",
-        "trailers"
-      ]
+    "jsHighEntropyHints": null,
+    "testedHeaders": [
+      "sec-ch-ua",
+      "ua",
+      "sec-ch-ua-platformua-platform",
+      "sec-ch-ua-mobile",
+      "ua-mobile",
+      "sec-ch-ua-full-version",
+      "ua-full-version",
+      "sec-ch-ua-full-version-list",
+      "sec-ch-ua-platform-version",
+      "ua-platform-version",
+      "sec-ch-ua-arch",
+      "ua-arch",
+      "sec-ch-ua-bitness",
+      "ua-bitness",
+      "sec-ch-ua-wow64",
+      "sec-ch-ua-model",
+      "ua-model",
+      "sec-ch-lang",
+      "lang",
+      "sec-ch-save-data",
+      "save-data",
+      "sec-ch-width",
+      "width",
+      "sec-ch-viewport-width",
+      "viewport-width",
+      "sec-ch-viewport-height",
+      "viewport-height",
+      "sec-ch-dpr",
+      "dpr",
+      "sec-ch-device-memory",
+      "device-memory",
+      "sec-ch-rtt",
+      "rtt",
+      "sec-ch-downlink",
+      "downlink",
+      "sec-ch-ect",
+      "ect",
+      "sec-ch-prefers-color-scheme",
+      "sec-ch-prefers-reduced-motion",
+      "sec-ch-prefers-reduced-transparency",
+      "sec-ch-prefers-contrast",
+      "sec-ch-forced-colors"
     ]
   }
 }
