@@ -1,0 +1,6725 @@
+{
+  "userAgentId": "windows-7--chrome-107-0",
+  "data": [
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/http-xhr/run?pageIndex=0&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/http-xhr/run?pageIndex=0&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/http-xhr/run?pageIndex=0&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "80"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/http-xhr/run?pageIndex=0&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "kpcnrwwmq2"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "x-lower-sessionid",
+          "imo8sx3dtal"
+        ],
+        [
+          "itavy2vzwj9",
+          "1"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/http-xhr/run?pageIndex=0&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "dn9ysedw6yv"
+        ],
+        [
+          "uvnd3726vs9",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "gmh9bulvakk"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/http-xhr/run?pageIndex=0&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "85"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "c0vcbzr6y0o"
+        ],
+        [
+          "etlw9j06xh9",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "e16jmh97vtw"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/http-xhr/run?pageIndex=0&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "http://MainDomain/http-xhr/run?pageIndex=0&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "m9nbb835dw",
+          "1"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "b70jwclfk8v"
+        ],
+        [
+          "x-lower-sessionid",
+          "zyxnsjx6e7s"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/http-xhr/run?pageIndex=0&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "81"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "05my3zqo5rr,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "vm12hbhgxzo"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "x-lower-sessionid",
+          "qdncpg2dsp"
+        ],
+        [
+          "05my3zqo5rr",
+          "1"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "wd1jikyj4f,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "wd1jikyj4f",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "tlkov28y4a"
+        ],
+        [
+          "x-lower-sessionid",
+          "j1oky4alo6q"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "a8onw1x40w4,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "a8onw1x40w4",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "3ndsjgr6ruh"
+        ],
+        [
+          "x-lower-sessionid",
+          "jqwcmpysvp"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "lj7e2827a1,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "80"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "lzcrq11lfq"
+        ],
+        [
+          "lj7e2827a1",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "liz24nn0qy"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "aid5yfdk3gl,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "wqeftcsrrxn"
+        ],
+        [
+          "aid5yfdk3gl",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "tptqa2vmsla"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "lq7v2iua6lj,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "lq7v2iua6lj",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "opj63i61bif"
+        ],
+        [
+          "x-lower-sessionid",
+          "balb2guyqyu"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "x-header-sessionid,x-lower-sessionid,z9rhy9u70vq"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "81"
+        ],
+        [
+          "z9rhy9u70vq",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "nt546q37c6g"
+        ],
+        [
+          "x-lower-sessionid",
+          "wj4ctrp3tui"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "ry0yk6m1fp,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "http://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3020"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "85"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "35d49yjdbn8"
+        ],
+        [
+          "ry0yk6m1fp",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "swngdnv778"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Origin",
+          "http://da-collect.ulixee.org:3020"
+        ],
+        [
+          "Referer",
+          "http://da-collect.ulixee.org:3020/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-origin"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/http-xhr/run?pageIndex=1&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-origin"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/http-xhr/run?pageIndex=1&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "83"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-origin"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/http-xhr/run?pageIndex=1&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-origin"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/http-xhr/run?pageIndex=1&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "8w46mptb24f",
+          "1"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "xzeqw8hwm1k"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "9onwxqqdih9"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-origin"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/http-xhr/run?pageIndex=1&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "0h2sgga3q9v5"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "x-lower-sessionid",
+          "sz6gu1sh6u"
+        ],
+        [
+          "r11n50067k",
+          "1"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-origin"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/http-xhr/run?pageIndex=1&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "t7jsmqg059"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "ig4a9rxsjsk"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "devhg3etij",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-origin"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/http-xhr/run?pageIndex=1&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=1&sessionId=X",
+      "rawHeaders": [
+        [
+          "Host",
+          "da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "83"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "a5xjkhnyy3a"
+        ],
+        [
+          "u90wkdbd1yn",
+          "1"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "3bg8lajlnk"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-origin"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/http-xhr/run?pageIndex=1&sessionId=10"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "82"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "1o7yklrrki5,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "1o7yklrrki5",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "62jmowcoj4k"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "ls8jl0g8w6t"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "nftxbuji37r,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "z5twl18ianl"
+        ],
+        [
+          "nftxbuji37r",
+          "1"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "8qoljksu8my"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "f2sn860qhxu,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "83"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "v4emzg7xue"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "qsk5a0wjac"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "f2sn860qhxu",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "4xsp59mz3yg,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "sub.da-collect.ulixee.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "82"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "mf17fljvi0a"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "za5c4d6okmf"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "4xsp59mz3yg",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "same-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "85"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "85"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "0kpwt5he6vhh,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "0kpwt5he6vhh",
+          "1"
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "tw0vz6dljy"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "atv1bwgivn"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "GET"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "imnpi4paz,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "t9wd17p3h8a"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "imnpi4paz",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "qsbpv519a8o"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "3wqzvf7crk7,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "83"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "ffyaiq98z1a"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "upwh63445hb"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "3wqzvf7crk7",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Accept",
+          "*/*"
+        ],
+        [
+          "Access-Control-Request-Method",
+          "POST"
+        ],
+        [
+          "Access-Control-Request-Headers",
+          "54vehtgtvpx,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "https",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          "Host",
+          "headers.dataliberationfoundation.org:3021"
+        ],
+        [
+          "Connection",
+          "keep-alive"
+        ],
+        [
+          "Content-Length",
+          "84"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "X-HeaDer-sessionId",
+          "7rx3krhu1zr"
+        ],
+        [
+          "54vehtgtvpx",
+          "1"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "d2r9416r4f7"
+        ],
+        [
+          "User-Agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "Content-Type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "Accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "Origin",
+          "https://da-collect.ulixee.org:3021"
+        ],
+        [
+          "Sec-Fetch-Site",
+          "cross-site"
+        ],
+        [
+          "Sec-Fetch-Mode",
+          "cors"
+        ],
+        [
+          "Sec-Fetch-Dest",
+          "empty"
+        ],
+        [
+          "Referer",
+          "https://da-collect.ulixee.org:3021/"
+        ],
+        [
+          "Accept-Encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "Accept-Language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "sec-fetch-site",
+          "same-origin"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/http-xhr/run?pageIndex=2&sessionId=10"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "sec-fetch-site",
+          "same-origin"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/http-xhr/run?pageIndex=2&sessionId=10"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "83"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-origin"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/http-xhr/run?pageIndex=2&sessionId=10"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "84"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-origin"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/http-xhr/run?pageIndex=2&sessionId=10"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-custom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "x-header-sessionid",
+          "k13rz3wb4u"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "hctal1qvah",
+          "1"
+        ],
+        [
+          "x-lower-sessionid",
+          "l98o67mxuag"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "sec-fetch-site",
+          "same-origin"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/http-xhr/run?pageIndex=2&sessionId=10"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-custom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "x-header-sessionid",
+          "rvvk87eyruf"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "hfel91v8edt"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "whf2udzgf7h",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "sec-fetch-site",
+          "same-origin"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/http-xhr/run?pageIndex=2&sessionId=10"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-custom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "84"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "x-header-sessionid",
+          "y6tf7fpauth"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "fyojwo2wp84"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "gylnbtx4vj",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-origin"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/http-xhr/run?pageIndex=2&sessionId=10"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "MainDomain",
+      "originType": "same-origin",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/http-xhr/run?pageIndex=2&sessionId=X",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-custom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "80"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "x-header-sessionid",
+          "v7bk3ppl5"
+        ],
+        [
+          "5m63266n8mc",
+          "1"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "9cf6oz3gytf"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-origin"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/http-xhr/run?pageIndex=2&sessionId=10"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "84"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "83"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-custom-headers.json?sessionId=10"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "access-control-request-method",
+          "GET"
+        ],
+        [
+          "access-control-request-headers",
+          "7ulofkq05i8,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-custom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "x-header-sessionid",
+          "fzmylx27mra"
+        ],
+        [
+          "7ulofkq05i8",
+          "1"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "zzv26c6lvp8"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-custom-headers.json?sessionId=10"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "access-control-request-method",
+          "GET"
+        ],
+        [
+          "access-control-request-headers",
+          "31v7lvm0az,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-custom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "x-header-sessionid",
+          "vkljmoiz96k"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "z7d7zck1bq"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "31v7lvm0az",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-custom-headers.json?sessionId=10"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "access-control-request-method",
+          "POST"
+        ],
+        [
+          "access-control-request-headers",
+          "2koj01fo9ve,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-custom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "85"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "x-header-sessionid",
+          "jnlqehw3inr"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "7vpqn72w079"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "2koj01fo9ve",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-custom-headers.json?sessionId=10"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "access-control-request-method",
+          "POST"
+        ],
+        [
+          "access-control-request-headers",
+          "ukwqv1p9o5,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "SubDomain",
+      "originType": "same-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "sub.da-collect.ulixee.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-custom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "85"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "ukwqv1p9o5",
+          "1"
+        ],
+        [
+          "x-header-sessionid",
+          "1ivynx85gxy"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "zep5yzyb9kd"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "same-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "85"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-nocustom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-nocustom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "84"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-custom-headers.json?sessionId=10"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "access-control-request-method",
+          "GET"
+        ],
+        [
+          "access-control-request-headers",
+          "3t6a1sbg5t4,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-custom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "x-header-sessionid",
+          "rhvcnakws9i"
+        ],
+        [
+          "3t6a1sbg5t4",
+          "1"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "eqz684ens7"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-custom-headers.json?sessionId=10"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "access-control-request-method",
+          "GET"
+        ],
+        [
+          "access-control-request-headers",
+          "3sd8ipea30h,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "GET",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/axios-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "GET"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/axios-custom-headers.json?sessionId=10"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "x-header-sessionid",
+          "vl6d5prgrd9"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "2zfu8ftb397"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "3sd8ipea30h",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-custom-headers.json?sessionId=10"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "access-control-request-method",
+          "POST"
+        ],
+        [
+          "access-control-request-headers",
+          "x-header-sessionid,x-lower-sessionid,zfie40ian"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Fetch",
+      "isRedirect": false,
+      "pathname": "/http-xhr/fetch-post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/fetch-post-custom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "83"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "x-header-sessionid",
+          "skjg009i26g"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "htpvr76rgnu"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "text/plain;charset=UTF-8"
+        ],
+        [
+          "zfie40ian",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "OPTIONS",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "Preflight",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "OPTIONS"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-custom-headers.json?sessionId=10"
+        ],
+        [
+          "accept",
+          "*/*"
+        ],
+        [
+          "access-control-request-method",
+          "POST"
+        ],
+        [
+          "access-control-request-headers",
+          "jbu8z2el90b,x-header-sessionid,x-lower-sessionid"
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    },
+    {
+      "method": "POST",
+      "protocol": "http2",
+      "domainType": "CrossDomain",
+      "originType": "cross-site",
+      "resourceType": "XHR",
+      "isRedirect": false,
+      "pathname": "/http-xhr/post-custom-headers.json",
+      "referer": "https://MainDomain/",
+      "rawHeaders": [
+        [
+          ":method",
+          "POST"
+        ],
+        [
+          ":authority",
+          "headers.dataliberationfoundation.org:3022"
+        ],
+        [
+          ":scheme",
+          "https"
+        ],
+        [
+          ":path",
+          "/http-xhr/post-custom-headers.json?sessionId=10"
+        ],
+        [
+          "content-length",
+          "84"
+        ],
+        [
+          "sec-ch-ua",
+          "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\""
+        ],
+        [
+          "x-header-sessionid",
+          "7ne14iylbvt"
+        ],
+        [
+          "sec-ch-ua-mobile",
+          "?0"
+        ],
+        [
+          "x-lower-sessionid",
+          "iungfk9mq0b"
+        ],
+        [
+          "user-agent",
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+        ],
+        [
+          "content-type",
+          "application/x-www-form-urlencoded"
+        ],
+        [
+          "accept",
+          "application/json, text/plain, */*"
+        ],
+        [
+          "jbu8z2el90b",
+          "1"
+        ],
+        [
+          "sec-ch-ua-platform",
+          "\"Windows\""
+        ],
+        [
+          "origin",
+          "https://da-collect.ulixee.org:3022"
+        ],
+        [
+          "sec-fetch-site",
+          "cross-site"
+        ],
+        [
+          "sec-fetch-mode",
+          "cors"
+        ],
+        [
+          "sec-fetch-dest",
+          "empty"
+        ],
+        [
+          "referer",
+          "https://da-collect.ulixee.org:3022/"
+        ],
+        [
+          "accept-encoding",
+          "gzip, deflate, br"
+        ],
+        [
+          "accept-language",
+          "en-US,en;q=0.9"
+        ]
+      ]
+    }
+  ]
+}
