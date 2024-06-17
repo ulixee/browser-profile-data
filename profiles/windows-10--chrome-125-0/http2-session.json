@@ -1,0 +1,156 @@
+{
+  "userAgentId": "windows-10--chrome-125-0",
+  "data": {
+    "sessions": [
+      {
+        "activity": [
+          {
+            "type": "connect",
+            "data": {
+              "remoteWindowSize": 65535
+            }
+          },
+          {
+            "type": "remoteSettings",
+            "data": {
+              "settings": {
+                "headerTableSize": 65536,
+                "enablePush": false,
+                "initialWindowSize": 6291456,
+                "maxHeaderListSize": 262144
+              },
+              "remoteWindowSize": 65535
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 1,
+              "authority": "da-collect.ulixee.org:3023",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/http2-session/wait?pageIndex=0&sessionId=173",
+              "flags": 37,
+              "weight": 256,
+              "hpackOutboundSize": 0,
+              "hpackInboundSize": 1050,
+              "remoteWindowSize": 15728640
+            }
+          },
+          {
+            "type": "localSettings",
+            "data": {
+              "settings": {
+                "headerTableSize": 4096,
+                "enablePush": true,
+                "initialWindowSize": 65535,
+                "maxFrameSize": 16384,
+                "maxConcurrentStreams": 4294967295,
+                "maxHeaderListSize": 4294967295,
+                "maxHeaderSize": 4294967295,
+                "enableConnectProtocol": false
+              },
+              "remoteWindowSize": 15727230
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 3,
+              "authority": "da-collect.ulixee.org:3023",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/favicon.ico",
+              "flags": 37,
+              "weight": 220,
+              "hpackOutboundSize": 65,
+              "hpackInboundSize": 1477,
+              "remoteWindowSize": 15727230
+            }
+          },
+          {
+            "type": "close",
+            "data": {}
+          }
+        ],
+        "id": "::ffff:74.50.105.126:42457"
+      },
+      {
+        "activity": [
+          {
+            "type": "connect",
+            "data": {
+              "remoteWindowSize": 65535
+            }
+          },
+          {
+            "type": "remoteSettings",
+            "data": {
+              "settings": {
+                "headerTableSize": 65536,
+                "enablePush": false,
+                "initialWindowSize": 6291456,
+                "maxHeaderListSize": 262144
+              },
+              "remoteWindowSize": 65535
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 1,
+              "authority": "da-collect.ulixee.org:3023",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/http2-session/wait2?pageIndex=1&sessionId=173",
+              "flags": 37,
+              "weight": 256,
+              "hpackOutboundSize": 0,
+              "hpackInboundSize": 1050,
+              "remoteWindowSize": 15728640
+            }
+          },
+          {
+            "type": "localSettings",
+            "data": {
+              "settings": {
+                "headerTableSize": 4096,
+                "enablePush": true,
+                "initialWindowSize": 65535,
+                "maxFrameSize": 16384,
+                "maxConcurrentStreams": 4294967295,
+                "maxHeaderListSize": 4294967295,
+                "maxHeaderSize": 4294967295,
+                "enableConnectProtocol": false
+              },
+              "remoteWindowSize": 15727235
+            }
+          },
+          {
+            "type": "stream",
+            "data": {
+              "id": 3,
+              "authority": "da-collect.ulixee.org:3023",
+              "method": "GET",
+              "scheme": "https",
+              "path": "/http2-session/?pageIndex=2&sessionId=173",
+              "flags": 37,
+              "weight": 256,
+              "hpackOutboundSize": 65,
+              "hpackInboundSize": 1050,
+              "remoteWindowSize": 15727235
+            }
+          },
+          {
+            "type": "ping",
+            "data": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001"
+          }
+        ],
+        "id": "::ffff:74.50.105.126:48122",
+        "origins": [
+          "https://da-collect.ulixee.org:48122"
+        ]
+      }
+    ]
+  }
+}
