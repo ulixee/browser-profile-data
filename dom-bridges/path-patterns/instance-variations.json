@@ -52,7 +52,9 @@
     "window.navigator.mediaDevices.enumerateDevices",
     "window.webkitRTCPeerConnection.new().createOffer",
     "window.RTCPeerConnection.new().createOffer",
+    "window.Element.prototype.getHTML",
     "window.Performance.prototype.getEntries",
+    "window.Navigator.prototype.createAuctionNonce",
     "window.navigator.requestMIDIAccess",
     "window.AudioContext.new().destination.context.sampleRate",
     "window.AudioContext.new().sampleRate"
@@ -61,6 +63,7 @@
   "extraAdded": [],
   "extraChanged": [
     "window.Intl.DateTimeFormat.new().resolvedOptions",
+    "window.Intl.DateTimeFormat.new().format",
     "window.console.memory.usedJSHeapSize",
     "window.document.styleSheets",
     "window.document.scripts",
